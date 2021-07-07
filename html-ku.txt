@@ -1,4 +1,5 @@
 html-ku
 - belajar repo
 - masukin repo
-- repo vsc
+- repo init
+- repo html
